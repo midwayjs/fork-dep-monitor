@@ -5,7 +5,7 @@
     "devDependencies": {
         "@types/koa-bodyparser": "4.3.5",
         "@types/koa-session": "5.10.4",
-        "extend2": "1.0.0",
+        "extend2": "1.0.1",
         "koa-session": "6.2.0",
         "uuid": "8.3.2",
         "egg-multipart": "2.13.1",
