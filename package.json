@@ -18,7 +18,8 @@
         "koa-onerror": "4.1.0",
         "camelcase": "6.3.0",
         "koa-passport": "4.1.4",
-        "cookies": "0.8.0"
+        "cookies": "0.8.0",
+        "file-stream-rotator": "0.6.1"
     },
     "scripts": {
       "test": "",
