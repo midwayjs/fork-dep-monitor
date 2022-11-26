@@ -17,7 +17,7 @@
         "egg-onerror": "2.1.1",
         "koa-onerror": "4.2.0",
         "camelcase": "6.3.0",
-        "koa-passport": "4.1.4",
+        "koa-passport": "5.0.0",
         "cookies": "0.8.0",
         "file-stream-rotator": "0.6.1",
         "winston-daily-rotate-file": "4.6.0",
