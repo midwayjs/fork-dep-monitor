@@ -21,7 +21,8 @@
         "cookies": "0.8.0",
         "file-stream-rotator": "0.6.1",
         "winston-daily-rotate-file": "4.6.0",
-        "flatted": "3.2.7"
+        "flatted": "3.2.7",
+        "@socket.io/sticky": "1.0.2"
     },
     "scripts": {
       "test": "",
