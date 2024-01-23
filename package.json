@@ -3,7 +3,7 @@
     "description": "a lib to monitor fork lib for midway",
     "version": "1.0.0",
     "devDependencies": {
-        "@types/koa-bodyparser": "4.3.10",
+        "@types/koa-bodyparser": "4.3.12",
         "@types/koa-session": "6.4.5",
         "extend2": "1.0.1",
         "koa-session": "6.4.0",
