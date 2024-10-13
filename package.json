@@ -14,7 +14,7 @@
         "egg-view-nunjucks": "2.3.0",
         "egg-security": "2.9.0",
         "egg-static": "2.2.0",
-        "egg-onerror": "2.1.1",
+        "egg-onerror": "2.4.0",
         "koa-onerror": "4.2.0",
         "camelcase": "7.0.0",
         "koa-passport": "5.0.0",
