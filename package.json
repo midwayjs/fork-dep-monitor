@@ -18,7 +18,7 @@
         "koa-onerror": "4.2.0",
         "camelcase": "7.0.0",
         "koa-passport": "5.0.0",
-        "cookies": "0.8.0",
+        "cookies": "0.9.2",
         "file-stream-rotator": "0.6.1",
         "winston-daily-rotate-file": "4.7.1",
         "flatted": "3.2.7",
